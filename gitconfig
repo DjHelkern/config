@@ -1,0 +1,14 @@
+[user]
+        name = Anatolii Zubarev
+        email = djhelkern@gmail.com
+[alias]
+        history = log --graph
+[safe]
+        directory = /home/zubarev/Документы/git/zabbix_add_hosts
+[user]
+        name = Anatolii Zubarev
+        email = djhelkern@gmail.com
+[alias]
+        history = log --graph
+[safe]
+        directory = /home/zubarev/Документы/git/zabbix_add_hosts
